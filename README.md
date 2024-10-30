@@ -28,4 +28,4 @@
 
 * **Uchaev Dmitry** - *Student work* - [uchaev214a](https://github.com/uchaev214a)
 
-See also the list of [contributors](https://github.com/uchaev214a/application-code-development/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/uchaev214a/ToDo/contributors) who participated in this project.
